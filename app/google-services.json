@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "324490310125",
+    "project_id": "world-of-foods-backend",
+    "storage_bucket": "world-of-foods-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324490310125:android:38e82cb7bbe7acd1e137e4",
+        "android_client_info": {
+          "package_name": "com.example.world_of_foods_admin_version_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdB_nH8EPP_VewRCcDfh5pdPJHVT4aj4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

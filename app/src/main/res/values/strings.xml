@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">World_of_Foods_Admin_Version_App</string>
+    <string name="facebook_app_id">942570880640294</string>
+    <string name="fb_login_protocol_scheme">fb942570880640294</string>
+    <string name="facebook_client_token">f1caf369ebb1e41835b8ef30a0aec551</string>
+</resources>
